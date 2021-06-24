@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yfh.iml" filepath="$PROJECT_DIR$/yfh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfh-admin/yfh-admin.iml" filepath="$PROJECT_DIR$/yfh-admin/yfh-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfh-common/yfh-common.iml" filepath="$PROJECT_DIR$/yfh-common/yfh-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfh-framework/yfh-framework.iml" filepath="$PROJECT_DIR$/yfh-framework/yfh-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfh-generator/yfh-generator.iml" filepath="$PROJECT_DIR$/yfh-generator/yfh-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfh-quartz/yfh-quartz.iml" filepath="$PROJECT_DIR$/yfh-quartz/yfh-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfh-system/yfh-system.iml" filepath="$PROJECT_DIR$/yfh-system/yfh-system.iml" />
+    </modules>
+  </component>
+</project>

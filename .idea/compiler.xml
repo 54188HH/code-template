@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yfh-system" />
+        <module name="yfh-framework" />
+        <module name="yfh-common" />
+        <module name="yfh-quartz" />
+        <module name="yfh-generator" />
+        <module name="yfh-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ruoyi" target="1.8" />
+      <module name="yfh" target="1.8" />
+      <module name="yfh-admin" target="1.8" />
+      <module name="yfh-common" target="1.8" />
+      <module name="yfh-framework" target="1.8" />
+      <module name="yfh-generator" target="1.8" />
+      <module name="yfh-quartz" target="1.8" />
+      <module name="yfh-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
